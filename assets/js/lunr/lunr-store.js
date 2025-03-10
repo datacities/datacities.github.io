@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Helsinki, Finland",
-        "excerpt":"Overview  Helsinki’s data strategy aims to create an open and transparent city by making data accessible and encouraging the development of smart city solutions. Open data platforms and public-private partnerships are key components of this strategy.   ","categories": [],
+        "excerpt":"Introduction and Context The Helsinki Data Strategy is part of the city’s broader Digitalisation Programme, approved in March 2019. The goal is to make Helsinki “the most functional city in the world” by leveraging data, artificial intelligence, and robotisation to improve public services and decision-making. Vision and Objectives Vision: Helsinki...","categories": [],
         "tags": [],
         "url": "/strategies/helsinki.html",
         "teaser": null
