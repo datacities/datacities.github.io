@@ -1,4 +1,10 @@
 var store = [{
+        "title": "Amsterdam, Netherlands",
+        "excerpt":"Introduction and Context Amsterdam’s Data Strategy sets out a framework for the city to regain control over its data and ensure that data collected within the city benefits the city’s residents. The strategy was developed in response to growing concerns about data privacy and the influence of major technology firms...","categories": [],
+        "tags": [],
+        "url": "/strategies/amsterdam.html",
+        "teaser": null
+      },{
         "title": "Basel, Switzerland",
         "excerpt":"Basel has a new data strategy.   Focus Areas   Data Governance   Data Catalog   Data Science and AI   Data Culture and Competencies   Implementation  For the implementation of the data strategy, Basel has created a Data Competence Center. The implementation can be followed at data.bs.  ","categories": [],
         "tags": [],
