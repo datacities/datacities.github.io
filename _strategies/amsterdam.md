@@ -5,14 +5,15 @@ tagline: "Data Strategy for Municipal Data"
 header:
   overlay_image: /assets/images/amsterdam.jpg
   overlay_filter: 0.5
-  caption: "Photo by <a href='https://unsplash.com/@maxvdo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Max van den Oetelaar</a> on <a href='https://unsplash.com/photos/white-boat-on-river-between-buildings-during-daytime--e4vLFZV9QM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>Unsplash</a>"
+  caption: "Photo by <a href='https://unsplash.com/@maxvdo'>Max van den Oetelaar</a> on <a href='https://unsplash.com/photos/-e4vLFZV9QM'>Unsplash</a>"
   actions:
     - label: "Website"
       url: "https://openresearch.amsterdam/nl/page/66506/datastrategie-gemeente-amsterdam"
 city: Amsterdam
 country: Netherlands
 strategy_date: 2021-01-01
-status: Active
+horizon: 2021–2022
+status: Inactive
 summary: Amsterdam's data strategy emphasizes transparency, citizen control over data, and ethical data management in urban planning and city services.
 vision: Data about the city should benefit the city and its residents.
 thumbnail: /assets/images/amsterdam.jpg
