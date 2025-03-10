@@ -5,19 +5,24 @@ tagline: "Data Excellence Strategy for Urban Data"
 header:
   overlay_image: /assets/images/bonn.jpg
   overlay_filter: 0.5
-  caption: Photo by <a href="https://commons.wikimedia.org/wiki/File:General_view_over_bonn_(cropped).jpg" target="_blank">Matthias Zepper</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank">CC BY-SA 3.0</a>, via Wikimedia Commons 
-  actions:
-    - label: "Website"
-      url: "https://www.bonn.de/themen-entdecken/planen-bauen/datenstrategie-urbaner-daten.php"
+  caption: Photo by <a href="https://commons.wikimedia.org/wiki/File:General_view_over_bonn_(cropped).jpg" target="_blank">Matthias Zepper</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank">CC BY-SA 3.0</a>, via Wikimedia Commons
+
 city: Bonn
 country: Germany
-strategy_date: 2023-12-05
-status: Active
 summary: Bonn's data strategy focuses on high-quality, transparent, and secure management of urban data to improve decision-making and public services.
 vision: Data Excellence for Bonn – Achieving high availability, transparency, quality, and security of urban data.
 thumbnail: /assets/images/bonn.jpg
 strategy_document: "https://www.bonn.de/medien-global/amt-62/urban-data-management/2024-04-25_Datenstrategie-udr_Version1.0.pdf"
 strategy_website: "https://www.bonn.de/themen-entdecken/planen-bauen/datenstrategie-urbaner-daten.php"
+sidebar:
+  - title: Strategy Date
+    text: 2023-12-05
+  - title: Horizon
+    text: 2023–2027
+  - title: Status
+    text: Active
+  - title: <a href="https://www.bonn.de/themen-entdecken/planen-bauen/datenstrategie-urbaner-daten.php">Website</a>
+  - title: <a href="https://www.bonn.de/medien-global/amt-62/urban-data-management/2024-04-25_Datenstrategie-udr_Version1.0.pdf">Document</a>
 ---
 
 ## Introduction and Context

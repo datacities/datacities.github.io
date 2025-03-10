@@ -6,18 +6,23 @@ header:
   overlay_image: /assets/images/vienna.jpg
   overlay_filter: 0.5
   caption: "Photo by Jacek Dylag on Unsplash"
-  actions:
-    - label: "Website"
-      url: "https://digitales.wien.gv.at/wp-content/uploads/sites/47/2024/12/2024_Strategie_Data-Excellence_2.1.pdf"
+
 city: Vienna
 country: Austria
-strategy_date: 2024-12-09
-status: Active
 summary: Vienna's data strategy focuses on high-quality data, open access, and data-driven decision-making to enhance city services and innovation.
 vision: Reliable data for Vienna — as open and protected as possible, with high quality and easy accessibility.
 thumbnail: /assets/images/vienna.jpg
 strategy_document: "https://digitales.wien.gv.at/wp-content/uploads/sites/47/2024/12/2024_Strategie_Data-Excellence_2.1.pdf"
 strategy_website: "https://data.wien.gv.at/"
+sidebar:
+  - title: Strategy Date
+    text: 2024-12-09
+  - title: Horizon
+    text: 2024–2028
+  - title: Status
+    text: Active
+  - title: <a href="https://data.wien.gv.at/">Website</a>
+  - title: <a href="https://digitales.wien.gv.at/wp-content/uploads/sites/47/2024/12/2024_Strategie_Data-Excellence_2.1.pdf">Document</a>
 ---
 
 ## Introduction and Context

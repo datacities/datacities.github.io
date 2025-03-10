@@ -6,18 +6,23 @@ header:
   overlay_image: /assets/images/helsinki.jpg
   overlay_filter: 0.5
   caption: "Photo by Tapio Haaja on Unsplash"
-  actions:
-    - label: "Website"
-      url: "https://digi.hel.fi/english/helsinki-city-data-strategy/"
+
 city: Helsinki
 country: Finland
-strategy_date: 2019-03-01
-status: Active
 summary: Helsinki's data strategy focuses on proactive service delivery, data-driven decision-making, and value creation through data sharing.
 vision: To make Helsinki's city data the most usable and used in the world by 2025.
 thumbnail: /assets/images/helsinki.jpg
 strategy_document: "https://digi.hel.fi/english/helsinki-city-data-strategy/"
 strategy_website: "https://digi.hel.fi/english/"
+sidebar:
+  - title: Strategy Date
+    text: 2019-03-01
+  - title: Horizon
+    text: 2019–2025
+  - title: Status
+    text: Active
+  - title: <a href="https://digi.hel.fi/english/">Website</a>
+  - title: <a href="https://digi.hel.fi/english/helsinki-city-data-strategy/">Document</a>
 ---
 
 ## Introduction and Context
