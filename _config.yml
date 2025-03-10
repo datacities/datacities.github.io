@@ -16,7 +16,7 @@ plugins:
 
 # Collections
 collections:
-  cities:
+  strategies:
     output: true
 
 # GitHub Repository
@@ -40,9 +40,9 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: "_cities"
+      path: "_strategies"
     values:
-      layout: "city"
+      layout: "strategy"
 
 # Exclude from processing
 exclude:
