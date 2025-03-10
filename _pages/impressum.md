@@ -4,20 +4,15 @@ title: Impressum
 permalink: /impressum/
 ---
 
-# **Impressum**
-
 This website is maintained and operated by:
 
-**[Your Full Name or Organization Name]**  
-[Your Street Address]  
-[Your City, Postal Code]  
-[Your Country]  
+**Uwe Thümmel**  
+Winterthur, Switzerland
 
 ---
 
 ## **Contact Information**
-**Email:** [your-email@example.com]  
-**Phone:** [+41 XX XXX XX XX]  
+**Email:** mail@datacities.info
 
 ---
 
@@ -48,15 +43,15 @@ The images used on this website are sourced from publicly available sources or a
 ---
 
 ## **Applicable Law**  
-The applicable law is Swiss law. The place of jurisdiction is [Your City/Location], Switzerland.  
+The applicable law is Swiss law. The place of jurisdiction is Winterthur, Switzerland.  
 
 ---
 
 ## **Contact for Legal Inquiries**  
 For legal inquiries or concerns about the content of this website, please contact us at:  
 
-📧 **[your-email@example.com]**  
+📧 **mail@datacities.info**  
 
 ---
 
-### **Last updated:** [March 2025]  
+### **Last updated:** March 2025
