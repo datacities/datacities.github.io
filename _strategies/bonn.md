@@ -5,7 +5,7 @@ tagline: "Data Excellence Strategy for Urban Data"
 header:
   overlay_image: /assets/images/bonn.jpg
   overlay_filter: 0.5
-  caption: "Photo by Matthias Zepper via Wikimedia Commons, CC BY-SA 3.0"
+  caption: Photo by <a href="https://commons.wikimedia.org/wiki/File:General_view_over_bonn_(cropped).jpg" target="_blank">Matthias Zepper</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank">CC BY-SA 3.0</a>, via Wikimedia Commons 
   actions:
     - label: "Website"
       url: "https://www.bonn.de/themen-entdecken/planen-bauen/datenstrategie-urbaner-daten.php"
