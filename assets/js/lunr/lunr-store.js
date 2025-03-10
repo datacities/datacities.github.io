@@ -1,4 +1,10 @@
 var store = [{
+        "title": "Impressum",
+        "excerpt":"This website is maintained and operated by: Uwe Thümmel Winterthur, Switzerland Contact Information Email: mail@datacities.info Liability for Content The content on this website has been created with the utmost care. However, we cannot guarantee the accuracy, completeness, or timeliness of the content. As a service provider, we are responsible for...","categories": [],
+        "tags": [],
+        "url": "/impressum/",
+        "teaser": null
+      },{
         "title": "Amsterdam, Netherlands",
         "excerpt":"Introduction and Context Amsterdam’s Data Strategy sets out a framework for the city to regain control over its data and ensure that data collected within the city benefits the city’s residents. The strategy was developed in response to growing concerns about data privacy and the influence of major technology firms...","categories": [],
         "tags": [],
@@ -17,6 +23,12 @@ var store = [{
         "url": "/strategies/bonn.html",
         "teaser": null
       },{
+        "title": "Freiburg, Germany",
+        "excerpt":"Introduction and Context Freiburg’s Data Excellence Strategy (DX) is designed to enable the city to become a “Smart City” by 2029. The goal is to enhance data-driven decision-making, improve the quality of public services, and ensure that data handling is secure and transparent. Freiburg has been participating in the “Model...","categories": [],
+        "tags": [],
+        "url": "/strategies/freiburg.html",
+        "teaser": null
+      },{
         "title": "Helsinki, Finland",
         "excerpt":"Introduction and Context The Helsinki Data Strategy is part of the city’s broader Digitalisation Programme, approved in March 2019. The goal is to make Helsinki “the most functional city in the world” by leveraging data, artificial intelligence, and robotisation to improve public services and decision-making. Objectives The aim of the...","categories": [],
         "tags": [],
@@ -27,6 +39,12 @@ var store = [{
         "excerpt":"Overview  New York’s data strategy revolves around improving public services through open data initiatives and encouraging civic engagement.   ","categories": [],
         "tags": [],
         "url": "/strategies/new_york.html",
+        "teaser": null
+      },{
+        "title": "Province of Utrecht, Netherlands",
+        "excerpt":"Introduction and Context Utrecht’s Data Strategy 2024–2026 outlines a plan to enhance the use of data for policymaking, public service improvement, and decision-making. The strategy reflects Utrecht’s ambition to become a data-driven region while ensuring data privacy, security, and public trust. Vision and Objectives Vision: “Data used professionally, transparently, and...","categories": [],
+        "tags": [],
+        "url": "/strategies/utrecht.html",
         "teaser": null
       },{
         "title": "Vienna, Austria",
