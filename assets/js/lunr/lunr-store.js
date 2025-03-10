@@ -18,7 +18,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Helsinki, Finland",
-        "excerpt":"Introduction and Context The Helsinki Data Strategy is part of the city’s broader Digitalisation Programme, approved in March 2019. The goal is to make Helsinki “the most functional city in the world” by leveraging data, artificial intelligence, and robotisation to improve public services and decision-making. Vision and Objectives Vision: Helsinki...","categories": [],
+        "excerpt":"Introduction and Context The Helsinki Data Strategy is part of the city’s broader Digitalisation Programme, approved in March 2019. The goal is to make Helsinki “the most functional city in the world” by leveraging data, artificial intelligence, and robotisation to improve public services and decision-making. Objectives The aim of the...","categories": [],
         "tags": [],
         "url": "/strategies/helsinki.html",
         "teaser": null
