@@ -9,6 +9,9 @@ header:
   actions:
     - label: "Website"
       url: "https://openresearch.amsterdam/nl/page/66506/datastrategie-gemeente-amsterdam"
+sidebar:
+  - title: "Info"
+    nav: infobox
 city: Amsterdam
 country: Netherlands
 strategy_date: 2021-01-01

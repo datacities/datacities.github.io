@@ -1,24 +1,12 @@
 ---
 layout: single
+sidebar:
+  - title: "Quick Facts"
+    text: "This is an infobox"
 ---
 
 <article>
-  <div>
-    <p><strong>Strategy Date:</strong> {{ page.strategy_date | date: "%B %d, %Y" }}</p>
-    <p><strong>Status:</strong> {{ page.status }}</p>
-  </div>
-
-  {% if page.summary %}
-    <h2>Summary</h2>
-    <p>{{ page.summary }}</p>
-  {% endif %}
-
-  {% if page.mission %}
-    <h2>Vision</h2>
-    <p>{{ page.vision }}</p>
-  {% endif %}
-
-  <div>
+ <div>
     {{ content }}
   </div>
 </article>
