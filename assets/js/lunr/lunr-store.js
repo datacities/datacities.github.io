@@ -1,4 +1,10 @@
 var store = [{
+        "title": "Basel, Switzerland",
+        "excerpt":"Focus Areas   Data Governance   Data Catalog   Data Science and AI   Data Culture and Competencies   Implementation  For the implementation of the data strategy, Basel has created a Data Competence Center. The implementation can be followed at data.bs.  ","categories": [],
+        "tags": [],
+        "url": "/cities/basel.html",
+        "teaser": null
+      },{
         "title": "Helsinki, Finland",
         "excerpt":"Overview  Helsinki’s data strategy aims to create an open and transparent city by making data accessible and encouraging the development of smart city solutions. Open data platforms and public-private partnerships are key components of this strategy.   ","categories": [],
         "tags": [],
