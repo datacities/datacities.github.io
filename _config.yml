@@ -18,6 +18,9 @@ plugins:
 collections:
   strategies:
     output: true
+  pages:
+    output: true
+    permalink: /:path/
 
 # GitHub Repository
 repository: datacities/datacities.github.io

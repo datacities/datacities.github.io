@@ -1,0 +1,6 @@
+infobox:
+  - title: "Parent Page A"
+    children:
+      - title: "Strategy Document"
+        url: {{page.strategy_document}} 
+

@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "City Data Strategies"
 author_profile: false
 entries_layout: none
@@ -25,4 +25,3 @@ You can contribute to this website via [Github](https://github.com/datacities/da
     </div>
   {% endfor %}
 </div>
-
