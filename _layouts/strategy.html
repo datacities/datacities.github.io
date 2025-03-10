@@ -4,7 +4,10 @@ layout: single
 <div class="notice">
   <h4>Quick Facts</h4>
   <ul>
+
+{% if page.vision %}
 <li><b>Vision:</b> {{page.vision}}</li>
+{% endif %}
 <li><b>Strategy Horizon:</b> {{page.horizon}}</li>
 <li><a href={{page.strategy_document}} target="_blank">Strategy Document</a></li>
 <li><a href={{page.strategy_website}} target="_blank">Strategy Website</a></li>
