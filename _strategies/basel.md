@@ -1,7 +1,8 @@
 ---
 layout: strategy
 title: Basel, Switzerland
-tagline: ""
+tagline: "Datenstrategie
+Kanton Basel Stadt 2023 – 2027"
 header:
   overlay_image: /assets/images/basel.jpg
   overlay_filter: 0.5
