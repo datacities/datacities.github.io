@@ -1,9 +1,9 @@
-title: Data and the City
+title: Data Cities
 email: mail@uwethuemmel.com
 description: >- 
  Collection of ressources around using data in cities. 
-baseurl: "/dataandthecity"
-url: "https://uwethuemmel.github.io"
+baseurl: ""
+url: "https://datacities.github.io"
 twitter_username: jekyllrb
 github_username: jekyll
 
@@ -20,7 +20,7 @@ collections:
     output: true
 
 # GitHub Repository
-repository: uwethuemmel/dataandthecity
+repository: datacities/datacities.github.io
 
 # Navigation settings
 navigation:
