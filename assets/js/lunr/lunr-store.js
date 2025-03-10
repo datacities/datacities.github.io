@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Basel, Switzerland",
-        "excerpt":"Basel has a new data strategy.   Focus Areas   Data Governance   Data Catalog   Data Science and AI   Data Culture and Competencies   Implementation  For the implementation of the data strategy, Basel has created a Data Competence Center. The implementation can be followed at data.bs.  ","categories": [],
+        "excerpt":"The data strategy for the Canton of Basel-Stadt states that the shared and smart use of data fuels innovation and is a foundation of the digital society. Transparent, connected, and secure data management creates the foundation for future-ready services and generates value for the public, the economy, and the administration....","categories": [],
         "tags": [],
         "url": "/strategies/basel.html",
         "teaser": null
