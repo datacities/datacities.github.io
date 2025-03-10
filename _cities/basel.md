@@ -7,7 +7,7 @@ strategy_date: 2023-05-10
 status: Active
 summary: Basel's data strategy focuses on data governance, a data catalog, data science and ai, and data culture and competencies.
 mission: To establish Zurich as a data-driven city with enhanced transparency and citizen services.
-thumbnail: "https://unsplash.com/photos/white-boat-on-water-near-city-buildings-during-daytime-sQ5IC9RV9zY"
+thumbnail: /assets/images/basel.jpg
 attribution: Photo by <a href="https://unsplash.com/@purzlbaum">Claudio Schwarz</a> on  <a href="https://unsplash.com/">Unsplash</a>
 strategy_document: "https://media.bs.ch/original_file/78c495f8375139cbeda9363448d45a29470639dc/datenstrategie-basel-stadt-0.pdf"
 strategy_website: "https://data.bs"
