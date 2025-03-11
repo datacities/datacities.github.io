@@ -48,7 +48,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Vienna, Austria",
-        "excerpt":"Introduction and Context   To be done   ","categories": [],
+        "excerpt":"Introduction and Context Strategy Document in German To be done. Organization This slide deck gives an overview of the Data Excellence (DX) Organization of the City of Vienna. The data excellence organization is an integrated part of the existing organizational structure of the City of Vienna. It governs the cooperation...","categories": [],
         "tags": [],
         "url": "/strategies/vienna.html",
         "teaser": null
