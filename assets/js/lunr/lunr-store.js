@@ -42,20 +42,14 @@ var store = [{
         "teaser": null
       },{
         "title": "Province of Utrecht, Netherlands",
-        "excerpt":"Introduction and Context Utrecht’s Data Strategy 2024–2026 outlines a plan to enhance the use of data for policymaking, public service improvement, and decision-making. The strategy reflects Utrecht’s ambition to become a data-driven region while ensuring data privacy, security, and public trust. Vision and Objectives Vision: “Data used professionally, transparently, and...","categories": [],
+        "excerpt":"Introduction and Context   To be done  ","categories": [],
         "tags": [],
         "url": "/strategies/utrecht.html",
         "teaser": null
       },{
         "title": "Vienna, Austria",
-        "excerpt":"Introduction and Context The Data Excellence Strategy (DX) 2.1 is Vienna’s strategic framework for data governance and management, replacing the previous IKT-Teilstrategie Data Excellence from March 1, 2019. The strategy reflects Vienna’s goal to leverage data as a strategic asset for efficient public service delivery, informed decision-making, and fostering innovation....","categories": [],
+        "excerpt":"Introduction and Context   To be done   ","categories": [],
         "tags": [],
         "url": "/strategies/vienna.html",
-        "teaser": null
-      },{
-        "title": "Zurich, Switzerland",
-        "excerpt":"Overview  Zurich has implemented a comprehensive data strategy aimed at enhancing city services, improving governance, and fostering transparency. The city’s open data platform serves as the foundation for building innovative public services.   ","categories": [],
-        "tags": [],
-        "url": "/strategies/zurich.html",
         "teaser": null
       }]
