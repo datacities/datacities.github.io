@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Amsterdam, Netherlands",
-        "excerpt":"Introduction and Context Amsterdam’s Data Strategy sets out a framework for the city to regain control over its data and ensure that data collected within the city benefits the city’s residents. The strategy was developed in response to growing concerns about data privacy and the influence of major technology firms...","categories": [],
+        "excerpt":"Summary   To be done.   ","categories": [],
         "tags": [],
         "url": "/strategies/amsterdam.html",
         "teaser": null
@@ -18,13 +18,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Bonn, Germany",
-        "excerpt":"Introduction and Context Bonn’s Data Strategy outlines a framework for handling urban data, aiming to establish a high level of data quality, transparency, and availability. The strategy is designed to support the city’s digital transformation and enable evidence-based policymaking. It builds on previous open data initiatives, including the city’s Open...","categories": [],
+        "excerpt":"Summary   To be done.   ","categories": [],
         "tags": [],
         "url": "/strategies/bonn.html",
         "teaser": null
       },{
         "title": "Freiburg, Germany",
-        "excerpt":"Introduction and Context Freiburg’s Data Excellence Strategy (DX) is designed to enable the city to become a “Smart City” by 2029. The goal is to enhance data-driven decision-making, improve the quality of public services, and ensure that data handling is secure and transparent. Freiburg has been participating in the “Model...","categories": [],
+        "excerpt":"Summary is work in progress … Objectives The goals of data excellence are to have at all times: the right data at the appropriate level of quality at the right place at the right time secure and legally compliant Principles Data are a strategic asset Responsibilities around data Data are...","categories": [],
         "tags": [],
         "url": "/strategies/freiburg.html",
         "teaser": null
@@ -36,7 +36,7 @@ var store = [{
         "teaser": null
       },{
         "title": "New York City, USA",
-        "excerpt":"Overview  New York’s data strategy revolves around improving public services through open data initiatives and encouraging civic engagement.   ","categories": [],
+        "excerpt":"Overview   Work in progress   New York City’s data strategy is part of the strategic plan of the Office of Technology &amp; Innovation (OTI).  ","categories": [],
         "tags": [],
         "url": "/strategies/new_york.html",
         "teaser": null
