@@ -18,7 +18,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Bonn, Germany",
-        "excerpt":"Summary   To be done.   ","categories": [],
+        "excerpt":"Summary work in progress Objectives Facilitate easy use of data – Maximize benefits from accessing and analyzing data to improve decision-making and efficiency. Promote data-driven innovation – Support systematic data-driven innovation within the city administration and in collaboration with the city society, science, business, and other institutions. Generate high value...","categories": [],
         "tags": [],
         "url": "/strategies/bonn.html",
         "teaser": null
