@@ -1,16 +1,22 @@
 ---
-layout: city
+layout: strategy
 title: New York City, USA
+tagline: "Harness the Power of Data"
+header:
+  overlay_image: /assets/images/new_york.jpg
+  overlay_filter: 0.5
+  caption: <a href="https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg">Dllu</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>
 city: New York City
 country: USA
-strategy_date: 2022-07-15
-status: Active
-summary: New York's data strategy emphasizes open data and citizen engagement.
-mission: To use data to improve public services, enhance transparency, and foster innovation.
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg"
-attribution: <a href="https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg">Dllu</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>
+summary: "The strategy aims to integrate the City’s data assets to develop a unified view of the City; leverage data to track performance in real time and advance data-driven operations."
+vision: "Harness the power of data"
+thumbnail: /assets/images/new_york.jpg
+strategy_document: "https://www.nyc.gov/assets/oti/downloads/pdf/about/strategic-plan-2022.pdf#page=21"
+strategy_website: "https://www.nyc.gov/content/oti/pages/harness-the-power-of-data"
 ---
 
 ## Overview
-New York’s data strategy revolves around improving public services through open data initiatives and encouraging civic engagement.
 
+Work in progress
+
+New York City's data strategy is part of the strategic plan of the Office of Technology & Innovation (OTI).
