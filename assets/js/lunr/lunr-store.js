@@ -5,6 +5,12 @@ var store = [{
         "url": "/impressum/",
         "teaser": null
       },{
+        "title": "Canton of Aargau, Switzerland",
+        "excerpt":"Summary   To do  ","categories": [],
+        "tags": [],
+        "url": "/strategies/aargau.html",
+        "teaser": null
+      },{
         "title": "Amsterdam, Netherlands",
         "excerpt":"Summary   To be done.   ","categories": [],
         "tags": [],
