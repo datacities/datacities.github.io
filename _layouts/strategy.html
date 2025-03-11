@@ -8,9 +8,15 @@ layout: single
 {% if page.vision %}
 <li><b>Vision:</b> {{page.vision}}</li>
 {% endif %}
+{% if page.horizon %}
 <li><b>Strategy Horizon:</b> {{page.horizon}}</li>
+{% endif %}
+{% if page.strategy_document %}
 <li><a href={{page.strategy_document}} target="_blank">Strategy Document</a></li>
+{% endif %}
+{% if page.strategy_website %}
 <li><a href={{page.strategy_website}} target="_blank">Strategy Website</a></li>
+{% endif %}
 </ul>
 
 </div>
