@@ -17,7 +17,7 @@ var store = [{
         "url": "/strategies/amsterdam.html",
         "teaser": null
       },{
-        "title": "Basel, Switzerland",
+        "title": "Canton of Basel-Stadt, Switzerland",
         "excerpt":"The data strategy for the Canton of Basel-Stadt states that the shared and smart use of data fuels innovation and is a foundation of the digital society. Transparent, connected, and secure data management creates the foundation for future-ready services and generates value for the public, the economy, and the administration....","categories": [],
         "tags": [],
         "url": "/strategies/basel.html",
@@ -29,7 +29,7 @@ var store = [{
         "url": "/strategies/bonn.html",
         "teaser": null
       },{
-        "title": "Freiburg, Germany",
+        "title": "Freiburg im Breisgau, Germany",
         "excerpt":"Summary is work in progress … Objectives The goals of data excellence are to have at all times: the right data at the appropriate level of quality at the right place at the right time secure and legally compliant Principles Data are a strategic asset Responsibilities around data Data are...","categories": [],
         "tags": [],
         "url": "/strategies/freiburg.html",
