@@ -2,18 +2,32 @@
 layout: strategy
 title: Vienna, Austria
 tagline: "Data Excellence Strategy 2.1"
+level: city
+
+# Location metadata
+city: Vienna
+state: Vienna
+country: Austria
+
+# Strategy metadata
+strategy_date: 2024-12-01
+status: Active
+summary: Vienna's data strategy focuses on reliable data to benefit the population, the economy, and science while also contributing to an efficient execution of tasks.
+vision: Reliable data for Vienna — as open and protected as possible, with high quality and easy accessibility.
+
+# Links and documents
+strategy_document: "https://digitales.wien.gv.at/wp-content/uploads/sites/47/2024/12/2024_Strategie_DataExcellence_2.1_EN.pdf"
+strategy_website: "https://data.wien.gv.at/"
+
+# Header image and thumbnail
 header:
   overlay_image: /assets/images/vienna.jpg
   overlay_filter: 0.5
-  caption: "Photo by Jacek Dylag on Unsplash"
+  caption: >-
+    Photo by <a href="https://unsplash.com/@dylag">Jacek Dylag</a> on 
+    <a href="https://unsplash.com/photos/7YwVbgQ63Lk">Unsplash</a>
 
-city: Vienna
-country: Austria
-summary: Vienna's data strategy focuses on reliable data to benefit the popultion, the economy, and science while also contributing to an efficient execution of tasks. 
-vision: Reliable data for Vienna — as open and protected as possible, with high quality and easy accessibility.
 thumbnail: /assets/images/vienna.jpg
-strategy_document: https://digitales.wien.gv.at/wp-content/uploads/sites/47/2024/12/2024_Strategie_DataExcellence_2.1_EN.pdf 
-strategy_website: "https://data.wien.gv.at/"
 ---
 
 ## Introduction and Context

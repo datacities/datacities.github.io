@@ -1,20 +1,34 @@
 ---
 layout: strategy
-title: Freiburg, Germany
-tagline: "Data:Excellence:Strategy"
+title: Freiburg im Breisgau, Germany
+tagline: "Data Strategy for Urban Data"
+level: city
+
+# Location metadata
+city: Freiburg im Breisgau
+state: Baden-Württemberg
+country: Germany
+
+# Strategy metadata
+strategy_date: 2022-11-15
+horizon: 2022–2026
+status: Active
+summary: Freiburg's data strategy focuses on open data, digital governance, and improving public services through data-driven decision-making.
+vision: To leverage data to enhance transparency, efficiency, and citizen participation in urban governance.
+
+# Links and documents
+strategy_document: "https://example.com/strategy-freiburg.pdf"
+strategy_website: "https://freiburg.de/data-strategy"
+
+# Header image and thumbnail
 header:
   overlay_image: /assets/images/freiburg.jpg
   overlay_filter: 0.5
-  caption: "<a href='https://commons.wikimedia.org/wiki/File:Freiburg_im_Breisgau_M%C3%BCnster.jpg'>C. M.</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0'>CC BY-SA 4.0</a>, via Wikimedia Commons"
+  caption: >-
+    Photo by <a href="https://unsplash.com/@somephotographer">Some Photographer</a> on 
+    <a href="https://unsplash.com/photos/some-id">Unsplash</a>
 
-city: Freiburg
-country: Germany
-summary: Freiburg's data strategy focuses on data governance, data services, and data management in order to achieve data excellence.
-vision: Achieving data excellence as a Smart City
-horizon: 2024-2029
 thumbnail: /assets/images/freiburg.jpg
-strategy_document: "https://www.freiburg.de/pb/site/freiburg_datenraum/get/params_E-1528152045/2162285/Freiburg_Broschuere_Online_final-1.pdf"
-strategy_website: "https://www.freiburg.de/pb/datenraum/daten_raum_freiburg/daten-exzellenz_+die+freiburger+strategie.html"
 ---
 
 Summary is work in progress ...
