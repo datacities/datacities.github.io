@@ -2,7 +2,7 @@
 # Basic Metadata
 layout: strategy
 title: Amsterdam, Netherlands
-tagline: "Data Strategy for Municipal Data"
+tagline: "Amsterdam's self-determination regarding data"
 
 # Geographical Information
 level: city
