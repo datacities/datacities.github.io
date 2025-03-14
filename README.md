@@ -1,7 +1,7 @@
 
 # 🌍 City Data Strategies
 
-This repository collects and documents data strategies from cities around the world. The goal is to create a reference and source of inspiration for other cities looking to establish or refine their data strategies.
+This repository collects and documents data strategies from cities around the world and displays them on this [website](https://datacities.github.io/). The goal is to create a reference and source of inspiration for other cities looking to establish or refine their data strategies.
 
 ---
 
