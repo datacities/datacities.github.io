@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Amsterdam, Netherlands",
-        "excerpt":"Summary   To be done.   ","categories": [],
+        "excerpt":"Summary Amsterdam’s data strategy focuses on empowering residents and using data to improve city services while ensuring privacy and ethical use. The strategy has two core goals: (1) giving citizens more control over their data by increasing transparency, improving legal frameworks, and promoting responsible alternatives; and (2) ensuring that data...","categories": [],
         "tags": [],
         "url": "/strategies/amsterdam.html",
         "teaser": null
