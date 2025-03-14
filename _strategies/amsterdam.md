@@ -11,8 +11,7 @@ state: North-Holland
 country: Netherlands
 
 # Strategy Overview
-summary: Amsterdam's data strategy emphasizes transparency, citizen control over data, and ethical data management in urban planning and city services.
-vision: Data about the city should benefit the city and its residents.
+summary: Amsterdam's data strategy emphasizes citizen's self-determination regarding data - and that data about the city should benefit the city.
 horizon: 2021–2022
 
 # Strategy Resources
