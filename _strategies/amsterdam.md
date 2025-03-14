@@ -24,6 +24,7 @@ header:
   overlay_filter: 0.5
   caption: "Photo by <a href='https://unsplash.com/@maxvdo'>Max van den Oetelaar</a> on <a href='https://unsplash.com/photos/-e4vLFZV9QM'>Unsplash</a>"
 thumbnail: /assets/images/amsterdam.jpg
+
 ---
 
 ## Summary
