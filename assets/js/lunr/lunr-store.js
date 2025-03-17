@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Canton of Aargau, Switzerland",
-        "excerpt":"Summary   To do  ","categories": [],
+        "excerpt":"Vision The cantonal administration knows its data assets. A working data governance across all domains governs the handling of data. This ensures security and efficiency and creates the foundation for publishing open government data. Principles Interoperability Different systems use the same concepts for the same content. Ensured with the help...","categories": [],
         "tags": [],
         "url": "/strategies/aargau.html",
         "teaser": null
