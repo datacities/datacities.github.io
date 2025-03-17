@@ -43,7 +43,7 @@ The cantonal administration knows its data assets. A working data governance acr
 ## Goals
 1. **Development of data-handling**
 2. **Introduction of a metadata catalog**
-3. **Make administrative data usable** as open government data (if legally permissable and technically feasible)
+3. **Making administrative data usable** as open government data (if legally permissable and technically feasible)
 
 ## Fields of action
 The data strategy lists 6 fields of action (under the umbrella of Implementation).
@@ -56,4 +56,4 @@ The data strategy lists 6 fields of action (under the umbrella of Implementation
 6. **External interoperability** Coordination with initiatives outside the Canton regarding interoperability and open government data.
 
 ## Notes
-The strategy uses a broad definition of the term *Data Governance` which includes data management, as well as data competencies.
+The strategy uses a broad definition of the term *Data Governance* which includes data management, as well as data competencies.
