@@ -44,7 +44,7 @@ The municipality wants residents to have more control over what data is collecte
 ### 2. **Ensure data about the city benefits the city**  
 The municipality wants to use data to improve the efficiency and effectiveness of public services while protecting privacy. Data about city processes and activities should be accessible to the city government and its residents. Actions to achieve this include:  
 - Creating an algorithm registry to increase transparency around how data and algorithms are used by the city.  
-- Experimenting with technologies like DECODE, which allow the use of data without storing personal information.  
+- Experimenting with technologies like [DECODE](https://decodeproject.eu/index.html), which allow the use of data without storing personal information.  
 - Implementing secure and privacy-friendly digital identification tools.  
 
 ## Principles
@@ -91,7 +91,7 @@ Data collected by the city and other organizations should benefit everyone.
 For each of the two objectives, the strategy outlines a number of measure or actions to be taken.
 
 
-### 1. **citizens Get More Control Over Their Data**  
+### 1. **Citizens Get More Control Over Their Data**  
 The city aims to give residents greater control over their personal data by reforming the data economy and empowering citizens with influence over how their data is collected and used. The strategy outlines these actions:
 
 - **Transparency on Data Collection**  

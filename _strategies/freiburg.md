@@ -17,8 +17,8 @@ summary: Freiburg's data strategy focuses on open data, digital governance, and 
 vision: To leverage data to enhance transparency, efficiency, and citizen participation in urban governance.
 
 # Links and documents
-strategy_document: "https://example.com/strategy-freiburg.pdf"
-strategy_website: "https://freiburg.de/data-strategy"
+strategy_document: "https://www.freiburg.de/pb/site/freiburg_datenraum/get/params_E-1528152045/2162285/Freiburg_Broschuere_Online_final-1.pdf"
+strategy_website: "https://www.freiburg.de/pb/datenraum/daten_raum_freiburg/daten-exzellenz_+die+freiburger+strategie.html"
 
 # Header image and thumbnail
 header:
