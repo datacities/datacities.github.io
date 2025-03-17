@@ -30,7 +30,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Freiburg im Breisgau, Germany",
-        "excerpt":"Summary is work in progress … Objectives The goals of data excellence are to have at all times: the right data at the appropriate level of quality at the right place at the right time secure and legally compliant Principles Data are a strategic asset Responsibilities around data Data are...","categories": [],
+        "excerpt":"Value Data Excellence (DX) in Freiburg provides concrete value for various stakeholder groups by improving processes, increasing transparency, and fostering innovation: City Administration More efficient work through better transparency and clearly defined responsibilities and rules. Faster and improved planning processes thanks to smooth data flows. Enhanced resilience in emergencies and...","categories": [],
         "tags": [],
         "url": "/strategies/freiburg.html",
         "teaser": null
