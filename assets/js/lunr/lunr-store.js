@@ -30,7 +30,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Freiburg im Breisgau, Germany",
-        "excerpt":"Value Data Excellence (DX) in Freiburg provides concrete value for various stakeholder groups by improving processes, increasing transparency, and fostering innovation: City Administration More efficient work through better transparency and clearly defined responsibilities and rules. Faster and improved planning processes thanks to smooth data flows. Enhanced resilience in emergencies and...","categories": [],
+        "excerpt":"Summary The data strategy of Freiburg im Breisgau is anchored in Freiburg positioning itself as a Smart City. As a Smart City, Freiburg strives to be a sustainable and efficient city with high quality of living that respects the needs of its citizens and responds to current chalenges. Data play...","categories": [],
         "tags": [],
         "url": "/strategies/freiburg.html",
         "teaser": null
